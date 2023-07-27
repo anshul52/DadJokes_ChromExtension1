@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'gilroy';
+    src: url('./Gilroy-Light.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+p{
+    height: 200px;
+    width: 400px;
+    font-family: gilroy;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 20px 20px;
+}
